@@ -45,9 +45,9 @@ The datasets in this repository were prepared using the following workflow in **
 
 ## 🚀 How to Use
 
-1. **Clone or Download** this repository:
+1. **Clone or Download** this repository:https://github.com/arafatgazi/Bathymetry_MaP_BD_EEZ
    ```bash
-   git clone https://github.com<your-username>/<your-repository-name>.git
+   git clone 
    ```
 2. Open **QGIS** and load the `.shp` or `.tif` files via `Layer` → `Add Layer` → `Add Vector/Raster Layer`.
 3. Ensure all supporting shapefile extensions (`.shp`, `.shx`, `.dbf`, `.prj`) remain in the same directory when loading.
